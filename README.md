@@ -34,4 +34,5 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact.arafay@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rafay2000/)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-c14438?style=flat&color=10942d&logo=website&logoColor=white)](https://portfolio-nextjs-chi-tawny.vercel.app)
+[![Resume](https://img.shields.io/badge/-Resume-c14438?style=flat&color=b221cc&logo=resume&logoColor=white)](https://docs.google.com/document/d/e/2PACX-1vQdMXpBRwa1APHnj1mJRs94fTMP3Zg5oyPTwLXtlruJAK9hrybjOyO7JAOXptE7rMyE5Hb_O16GEC8T/pub)
 <br/>
